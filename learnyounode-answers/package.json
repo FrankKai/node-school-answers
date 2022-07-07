@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "concat-stream": "^2.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "through2-map": "^3.0.0"
   }
 }
